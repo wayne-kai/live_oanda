@@ -2,5 +2,5 @@
 
 To run both live dashboard and trading app:
 ```
-make deploy
+cd live_trading && python app.py
 ```
